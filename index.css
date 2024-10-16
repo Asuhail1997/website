@@ -1,0 +1,142 @@
+.Service{
+    text-align: center;
+}
+
+body h1, h3{
+    
+        font-family: "Satisfy", cursive;
+        font-weight: 400;
+        
+      
+    
+}
+.toast-header{
+    
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-width: 1px; 
+    border-style: solid;
+}
+
+.nav-link:hover{
+
+    
+    
+    background-color: rgb(235, 235, 235);
+}
+
+.Service{
+    margin-bottom: 3%;
+}
+
+.imgss img{
+
+    width: 100%;
+    cursor: pointer;
+}
+
+.imgss {
+    margin: 20px 15px;
+}
+
+.card-body{
+
+    text-align: center;
+}
+.map{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+i{
+    letter-spacing: 5px;
+    font-size: 15px;
+    
+    
+   
+}
+
+li{
+    
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+}
+
+.s1 h3{
+    margin-top: 10px;
+}
+
+.s1{
+    margin-bottom: 10px;
+}
+ .footerr{
+
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    border: 2px solid white;
+    margin-top: 2%;
+    margin-bottom: 1%;
+
+ }
+ .flexx{
+    display: flex;
+}
+
+.menu h1{
+
+  color: #fdc800;
+  font-size: 25px;
+}
+
+.menu p{
+
+  color: white;
+}
+
+.menu11 a{
+
+  color: white;
+  text-decoration: none;
+
+
+}
+
+.button{
+
+width: 80%;
+height: 45px;
+
+background-color: white;
+margin-top: 20px;
+border-radius: 20rem;
+margin-left: 30px;
+
+
+}
+
+.button i{
+
+  text-align: right;
+}
+
+.button input{
+  border: none;
+  padding-top: 9px;
+  padding-left: 14px;
+  background-color: transparent;
+  width: 90%
+}
+
+.left{
+  margin-left: 30px;
+}
+
+
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+
+   
+  }
